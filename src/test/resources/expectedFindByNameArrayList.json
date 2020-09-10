@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Emo",
+    "phone": "11111",
+    "cellphone": "989",
+    "address": {
+      "street": "cccc",
+      "number": "1111",
+      "postal_code": "00101010",
+      "city": "ddd",
+      "state": "eeee"
+    }
+  },
+  {
+    "name": "Emo",
+    "phone": "9898",
+    "cellphone": "31231",
+    "address": {
+      "street": "sada",
+      "number": "sda",
+      "postal_code": "asdas",
+      "city": "sadas",
+      "state": "sdadas"
+    }
+  }
+]

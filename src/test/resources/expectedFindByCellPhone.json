@@ -1,0 +1,12 @@
+{
+  "name": "lala",
+  "phone": "9898",
+  "cellphone": "31231",
+  "address": {
+    "street": "sada",
+    "number": "sda",
+    "postal_code": "asdas",
+    "city": "sadas",
+    "state": "sdadas"
+  }
+}
